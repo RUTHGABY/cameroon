@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BIENVENU &#8211; ndjouopme ruth</title>
+	<atom:link href="https://https://ruthgaby.github.io/cameroon/category/bienvenu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://ruthgaby.github.io/cameroon</link>
+	<description>it&#039;s cameroonains world, YOU ARE JUST LIVING IN IT</description>
+	<lastBuildDate>Mon, 15 Jan 2024 12:19:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>LE CAMEROUN, UNE MINE DE TALENT!</title>
+		<link>https://https://ruthgaby.github.io/cameroon/2024/01/15/hello-world/</link>
+					<comments>https://https://ruthgaby.github.io/cameroon/2024/01/15/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[ruth]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2024 09:04:18 +0000</pubDate>
+				<category><![CDATA[BIENVENU]]></category>
+		<guid isPermaLink="false">https://https://ruthgaby.github.io/cameroon/?p=1</guid>
+
+					<description><![CDATA[situé au centre de l&#8217;Afrique, le Cameroun terre de diversité à toujours vu naitre des immenses talents qui on à un moment donné changé le cours de l&#8217;histoire et par la même occasion mis en avant les couleurs nationales. que vous soyez d&#8217;Europe, d&#8217;Asie, d&#8217;Amérique ou encore même d&#8217;Afrique et peu importe vos centres d&#8217;intérêts, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-background-color has-body-text-background-color has-text-color has-background has-link-color wp-elements-770f707b150850fb66062876bde62487">situé au centre de l&#8217;Afrique, le Cameroun terre de diversité à toujours vu naitre des immenses talents qui on à un moment donné changé le cours de l&#8217;histoire et par la même occasion mis en avant les couleurs nationales. que vous soyez d&#8217;Europe, d&#8217;Asie, d&#8217;Amérique ou encore même d&#8217;Afrique et peu importe vos centres d&#8217;intérêts, vous aurez surement entendu parlé de SAMUEL ETO&#8217;O l&#8217;homme qui à marqué l&#8217;histoire du football mondial, de MANU DIBANGO qui avec son saxophone est devenu l&#8217;inspiration musicale de plusieurs génération, ou alors de ERNEST SIMO l&#8217;homme surdoué qui à inventé la carte SIM. bien sure il y en plus qui de leur façon ont changé l&#8217;histoire, n&#8217;oubliez pas de visiter notre site pour aller à la rencontre de ces l&#8217;légendes!! </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://ruthgaby.github.io/cameroon/2024/01/15/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
